@@ -815,6 +815,7 @@ header .head-logo h1 span,
   align-items: center;
   justify-content: center;
   gap: 40px;
+  width: 100%;
 }
 
 #contact .contact-details .contact-title {
@@ -824,7 +825,7 @@ header .head-logo h1 span,
   background-color: rgb(224, 65, 91);
   color: white;
   font-size: 20px;
-  border: solid;
+  /* border: solid; */
 }
 
 #contact .contact-details .contact-form {
@@ -1028,7 +1029,7 @@ header .head-logo h1 span,
     overflow: hidden;
     /* border: solid; */
     flex-direction: column;
-    gap: 20px;
+    gap: 30px;
     transition: height 0.5s ease;
   }
 
@@ -1050,6 +1051,7 @@ header .head-logo h1 span,
 
   #click {
     display: flex;
+    font-size: 20px;
     cursor: pointer;
   }
 
