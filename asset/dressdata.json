@@ -1,0 +1,2377 @@
+{
+  "westernWear": [
+    {
+      "id": 1,
+      "name": "Floral Maxi Dress",
+      "price": 189.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324951/maxi_cy9cas.webp"
+        }
+      ],
+      "description": "Elegant floral maxi dress with soft fabric and adjustable straps, perfect for summer outings.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "Vero Moda",
+      "company": "Vero Moda Apparel",
+      "country": "Denmark",
+      "isExport": true,
+      "specification": {
+        "material": "Viscose"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 2,
+      "name": "Denim Jacket",
+      "price": 129.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324950/denimjacket_ptxdro.jpg"
+        }
+      ],
+      "description": "Classic blue denim jacket with button closure and front pockets, perfect for layering.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "Levi's",
+      "company": "Levi Strauss & Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Denim Cotton"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 3,
+      "name": "Pleated Midi Skirt",
+      "price": 139.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324950/midiskirt_haewry.jpg"
+        }
+      ],
+      "description": "Graceful pleated midi skirt with a flowy silhouette and side zipper closure.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "Zara",
+      "company": "Zara Fashion",
+      "country": "Spain",
+      "isExport": true,
+      "specification": {
+        "material": "Polyester"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 4,
+      "name": "Cotton Crop Top",
+      "price": 89.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324949/croptop_ioi0r4.jpg"
+        }
+      ],
+      "description": "Soft cotton crop top with round neck and short sleeves for a casual look.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.4,
+      "brand": "H&M",
+      "company": "H&M Group",
+      "country": "Sweden",
+      "isExport": true,
+      "specification": {
+        "material": "Cotton"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 5,
+      "name": "High-Waist Jeans",
+      "price": 159.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324949/highwaistjean_cgnmvb.jpg"
+        }
+      ],
+      "description": "Trendy high-waist jeans with stretchable fabric and a flattering silhouette.",
+      "inStock": false,
+      "availability": "Out of Stock",
+      "rating": 4.8,
+      "brand": "ONLY",
+      "company": "Bestseller Group",
+      "country": "Denmark",
+      "isExport": true,
+      "specification": {
+        "material": "Stretch Denim"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 6,
+      "name": "Wrap Dress",
+      "price": 179.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324950/wrapdress_oytjgr.webp"
+        }
+      ],
+      "description": "Stylish wrap dress with a V-neckline and tie-up waist for a flattering fit.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "Vero Moda",
+      "company": "Vero Moda Apparel",
+      "country": "Denmark",
+      "isExport": true,
+      "specification": {
+        "material": "Crepe"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 7,
+      "name": "Linen Shirt",
+      "price": 119.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324946/linenshirt_jbd488.jpg"
+        }
+      ],
+      "description": "Breathable linen shirt with button-down front, ideal for warm weather.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "Mango",
+      "company": "Punto Fa, S.L.",
+      "country": "Spain",
+      "isExport": true,
+      "specification": {
+        "material": "Linen"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 8,
+      "name": "Ribbed Knit Sweater",
+      "price": 149.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324946/knitsweater_zonef6.jpg"
+        }
+      ],
+      "description": "Cozy ribbed knit sweater with long sleeves and a crew neckline.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.8,
+      "brand": "H&M",
+      "company": "H&M Group",
+      "country": "Sweden",
+      "isExport": true,
+      "specification": {
+        "material": "Acrylic Blend"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 9,
+      "name": "Paperbag Waist Shorts",
+      "price": 99.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324951/waistshorts_wggn7r.jpg"
+        }
+      ],
+      "description": "Chic paperbag waist shorts with tie belt and side pockets.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "Zara",
+      "company": "Zara Fashion",
+      "country": "Spain",
+      "isExport": true,
+      "specification": {
+        "material": "Cotton Blend"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 10,
+      "name": "Faux Leather Jacket",
+      "price": 199.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324948/leatherjacket_de0kjd.jpg"
+        }
+      ],
+      "description": "Edgy faux leather jacket with zip closure and lapel collar for a biker look.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.9,
+      "brand": "ONLY",
+      "company": "Bestseller Group",
+      "country": "Denmark",
+      "isExport": true,
+      "specification": {
+        "material": "Faux Leather"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 11,
+      "name": "Peplum Top",
+      "price": 109.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324946/peplumtop_jnm0ge.jpg"
+        }
+      ],
+      "description": "Charming peplum top with ruffle hem and a flattering fit.",
+      "inStock": false,
+      "availability": "Out of Stock",
+      "rating": 4.5,
+      "brand": "Forever 21",
+      "company": "Forever 21 Inc.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Polyester Blend"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 12,
+      "name": "Jumpsuit",
+      "price": 159.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324948/jumpsuit_yi9a1p.jpg"
+        }
+      ],
+      "description": "Stylish one-piece jumpsuit with a sleeveless design and belted waist.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "LuxeMuse",
+      "company": "LuxeMuse Fashion",
+      "country": "France",
+      "isExport": true,
+      "specification": {
+        "material": "Polyester Blend"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 13,
+      "name": "Wide-Leg Pants",
+      "price": 149.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324947/widelegpants_wr8zi6.jpg"
+        }
+      ],
+      "description": "Elegant wide-leg pants with high waist and front pleats for a modern fit.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.8,
+      "brand": "Zara",
+      "company": "Zara Fashion",
+      "country": "Spain",
+      "isExport": true,
+      "specification": {
+        "material": "Polyester"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 14,
+      "name": "Bodycon Dress",
+      "price": 179.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324946/bodycondress_xdtgdf.jpg"
+        }
+      ],
+      "description": "Fitted bodycon dress with stretchable fabric and elegant round neckline.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "H&M",
+      "company": "H&M Group",
+      "country": "Sweden",
+      "isExport": true,
+      "specification": {
+        "material": "Viscose Blend"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 15,
+      "name": "Denim Dungaree",
+      "price": 169.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761324949/denimdungaree_kz5tp4.jpg"
+        }
+      ],
+      "description": "Trendy denim dungaree with adjustable straps and front pockets for a youthful look.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "ONLY",
+      "company": "Bestseller Group",
+      "country": "Denmark",
+      "isExport": true,
+      "specification": {
+        "material": "Denim Cotton"
+      },
+      "warranty": "1 year"
+    }
+  ],
+
+  "traditionalWear": [
+    {
+      "id": 16,
+      "name": "Silk Saree",
+      "price": 199.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327069/silk-saree_lckxpg.jpg"
+        }
+      ],
+      "description": "Elegant pure silk saree with intricate zari border for festive occasions.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.8,
+      "brand": "Vastraa",
+      "company": "Vastraa Textiles",
+      "country": "India",
+      "isExport": true,
+      "specification": {
+        "material": "Pure Silk"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 17,
+      "name": "Banarasi Saree",
+      "price": 179.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327042/banarasisaree_sx1bwk.jpg"
+        }
+      ],
+      "description": "Traditional Banarasi silk saree with detailed gold brocade patterns.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "EthnoWeave",
+      "company": "EthnoWeave Creations",
+      "country": "India",
+      "isExport": true,
+      "specification": {
+        "material": "Banarasi Silk"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 18,
+      "name": "Anarkali Suit",
+      "price": 139.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327051/Anarkali-Suit_q4eges.jpg"
+        }
+      ],
+      "description": "Graceful Anarkali suit with detailed embroidery and full flair design.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "Aarohi",
+      "company": "Aarohi Designs",
+      "country": "India",
+      "isExport": true,
+      "specification": {
+        "material": "Georgette"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 19,
+      "name": "Lehenga Choli",
+      "price": 249.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327070/lehengacholi_mbslnl.jpg"
+        }
+      ],
+      "description": "Designer lehenga choli with mirror work and net dupatta for weddings.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.9,
+      "brand": "Navras",
+      "company": "Navras Couture",
+      "country": "India",
+      "isExport": true,
+      "specification": {
+        "material": "Net & Silk"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 20,
+      "name": "Salwar Kameez",
+      "price": 109.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327046/salwarkameez_yg69lm.jpg"
+        }
+      ],
+      "description": "Classic cotton salwar kameez with printed dupatta for everyday comfort.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "Kriti",
+      "company": "Kriti Fashion Studio",
+      "country": "India",
+      "isExport": false,
+      "specification": {
+        "material": "Cotton"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 21,
+      "name": "Kurta Set",
+      "price": 89.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327047/kurtaset_tex7or.webp"
+        }
+      ],
+      "description": "Stylish kurta set with palazzo and embroidered neckline design.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.4,
+      "brand": "DesiThreads",
+      "company": "DesiThreads Apparel",
+      "country": "India",
+      "isExport": false,
+      "specification": {
+        "material": "Rayon"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 22,
+      "name": "Sharara Suit",
+      "price": 159.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327067/shararasuit_mjxdax.webp"
+        }
+      ],
+      "description": "Festive sharara suit with sequins work and chiffon dupatta.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "Nazaaraa",
+      "company": "Nazaaraa Fashions",
+      "country": "India",
+      "isExport": true,
+      "specification": {
+        "material": "Chiffon Blend"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 23,
+      "name": "Patiala Suit",
+      "price": 99.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327040/patialasuit_hbmqav.jpg"
+        }
+      ],
+      "description": "Vibrant Patiala suit with printed dupatta and contrast kurta design.",
+      "inStock": false,
+      "availability": "Out of Stock",
+      "rating": 4.3,
+      "brand": "Aabharana",
+      "company": "Aabharana Textiles",
+      "country": "India",
+      "isExport": false,
+      "specification": {
+        "material": "Cotton Blend"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 24,
+      "name": "Chikankari Kurta",
+      "price": 129.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327044/chikankarikurta_wg8g9m.webp"
+        }
+      ],
+      "description": "Handcrafted Lucknowi Chikankari kurta with fine embroidery details.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "Noorani",
+      "company": "Noorani Ethnics",
+      "country": "India",
+      "isExport": true,
+      "specification": {
+        "material": "Cotton"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 25,
+      "name": "Kanjivaram Saree",
+      "price": 229.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327080/kanchivaramsaree_ywimyn.jpg"
+        }
+      ],
+      "description": "Traditional Kanjivaram silk saree with gold zari and temple border.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.9,
+      "brand": "Sundari",
+      "company": "Sundari Silks",
+      "country": "India",
+      "isExport": true,
+      "specification": {
+        "material": "Kanjivaram Silk"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 26,
+      "name": "Phulkari Dupatta",
+      "price": 69.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327038/dupatta_rdpsca.webp"
+        }
+      ],
+      "description": "Colorful Phulkari embroidered dupatta that adds vibrance to any outfit.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "Panihari",
+      "company": "Panihari Crafts",
+      "country": "India",
+      "isExport": false,
+      "specification": {
+        "material": "Silk Blend"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 27,
+      "name": "Indo-Western Gown",
+      "price": 189.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327039/indowesterngown_i6vmrj.jpg"
+        }
+      ],
+      "description": "Stylish Indo-western gown with ethnic prints and modern silhouette.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "Aurelia",
+      "company": "Aurelia Designs",
+      "country": "India",
+      "isExport": true,
+      "specification": {
+        "material": "Crepe"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 28,
+      "name": "Bandhani Saree",
+      "price": 149.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327054/bandhanisaree_b6capp.webp"
+        }
+      ],
+      "description": "Vibrant Bandhani saree featuring hand-tied patterns and contrast border.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "RajRani",
+      "company": "RajRani Silks",
+      "country": "India",
+      "isExport": true,
+      "specification": {
+        "material": "Cotton Silk"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 29,
+      "name": "Angrakha Kurta",
+      "price": 119.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761327036/anghrakhakurta_m14xwg.jpg"
+        }
+      ],
+      "description": "Traditional Angrakha-style kurta with tie-up details and block prints.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.4,
+      "brand": "Kalamkari",
+      "company": "Kalamkari Studio",
+      "country": "India",
+      "isExport": false,
+      "specification": {
+        "material": "Cotton"
+      },
+      "warranty": "1 year"
+    }
+  ],
+
+  "cosmetics": [
+    {
+      "id": 30,
+      "name": "Hydrating Foundation",
+      "price": 49.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329144/hydrafoundation_xyrefu.jpg"
+        }
+      ],
+      "description": "Lightweight foundation that provides medium coverage with a natural, dewy finish.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "LuxeSkin",
+      "company": "LuxeSkin Cosmetics",
+      "country": "France",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 31,
+      "name": "Matte Lipstick",
+      "price": 24.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329144/mattelipstick_e9ni9c.avif"
+        }
+      ],
+      "description": "Highly pigmented matte lipstick that lasts all day without drying lips.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "Glamora",
+      "company": "Glamora Beauty Labs",
+      "country": "Italy",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 32,
+      "name": "Volumizing Mascara",
+      "price": 29.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329145/mascara_gc9svf.webp"
+        }
+      ],
+      "description": "Smudge-proof mascara that adds instant volume and curl to lashes.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.8,
+      "brand": "Velvique",
+      "company": "Velvique Cosmetics",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 33,
+      "name": "Compact Powder",
+      "price": 22.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329145/compactpowder_n6gzmq.png"
+        }
+      ],
+      "description": "Oil-control compact powder that sets makeup and gives a matte finish.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "AuraGlow",
+      "company": "AuraGlow Beauty",
+      "country": "India",
+      "isExport": false,
+      "specification": {
+        "skinType": "Oily to Combination"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 34,
+      "name": "Liquid Eyeliner",
+      "price": 19.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329754/eyeliner_hzncmo.webp"
+        }
+      ],
+      "description": "Precision-tip waterproof eyeliner that delivers intense black color.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "BelleLine",
+      "company": "BelleLine Paris",
+      "country": "France",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 35,
+      "name": "Blush Palette",
+      "price": 39.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329158/blushpalette_ltrn0e.jpg"
+        }
+      ],
+      "description": "Four-shade blush palette for natural to glam looks with soft texture.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "Roselle",
+      "company": "Roselle Beauty Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 36,
+      "name": "Highlighter Stick",
+      "price": 27.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329158/highlightstick_nmpzz1.jpg"
+        }
+      ],
+      "description": "Creamy highlighter stick that blends easily and gives a radiant glow.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.8,
+      "brand": "GlowMist",
+      "company": "GlowMist Cosmetics",
+      "country": "Canada",
+      "isExport": true,
+      "specification": {
+        "skinType": "Dry skin"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 37,
+      "name": "BB Cream",
+      "price": 34.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329171/bbcream_jc43cl.png"
+        }
+      ],
+      "description": "All-in-one BB cream that moisturizes, protects, and evens out skin tone.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "DermaTint",
+      "company": "DermaTint Skincare",
+      "country": "South Korea",
+      "isExport": true,
+      "specification": {
+        "skinType": "Oily skin"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 38,
+      "name": "Setting Spray",
+      "price": 32.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329157/settingspray_gtyan2.avif"
+        }
+      ],
+      "description": "Long-lasting setting spray that locks makeup for up to 16 hours.",
+      "inStock": false,
+      "availability": "Out of Stock",
+      "rating": 4.7,
+      "brand": "StayPerfect",
+      "company": "StayPerfect Beauty",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 39,
+      "name": "Brow Definer",
+      "price": 21.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329158/brow-definer-kit-447566_mjt1mt.webp"
+        }
+      ],
+      "description": "Dual-ended brow pencil with spoolie for defining and shaping eyebrows.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "Arché",
+      "company": "Arché Beauty Tools",
+      "country": "Germany",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 40,
+      "name": "Makeup Remover",
+      "price": 25.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329147/makeupremover_ubawp8.webp"
+        }
+      ],
+      "description": "Gentle micellar water makeup remover suitable for sensitive skin.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "PureEase",
+      "company": "PureEase Skincare",
+      "country": "France",
+      "isExport": true,
+      "specification": {
+        "skinType": "Sensitive"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 41,
+      "name": "Primer Serum",
+      "price": 37.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329145/primerserum_jrjzdp.jpg"
+        }
+      ],
+      "description": "Hydrating primer serum that smooths skin and enhances makeup longevity.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.8,
+      "brand": "SkinDew",
+      "company": "SkinDew Cosmetics",
+      "country": "Japan",
+      "isExport": true,
+      "specification": {
+        "skinType": "Dry to Normal"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 42,
+      "name": "Lip Gloss",
+      "price": 18.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329754/lipgloss_n0vvpq.jpg"
+        }
+      ],
+      "description": "Glossy lip gloss with a non-sticky finish and light shimmer effect.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "ShinePop",
+      "company": "ShinePop Beauty",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "skinType": "Dry to Normal"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 43,
+      "name": "Concealer Pen",
+      "price": 28.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329755/concelaerpen_yplbiw.webp"
+        }
+      ],
+      "description": "Lightweight concealer pen that brightens under-eye area and hides imperfections.",
+      "inStock": false,
+      "availability": "Out of Stock",
+      "rating": 4.7,
+      "brand": "RadiantTouch",
+      "company": "RadiantTouch Cosmetics",
+      "country": "Italy",
+      "isExport": true,
+      "specification": {
+        "skinType": "Oily to Normal"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 44,
+      "name": "Nail Lacquer",
+      "price": 16.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761329145/naillacquer_qcsaij.jpg"
+        }
+      ],
+      "description": "Quick-dry nail lacquer with long-lasting shine and chip-resistant formula.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "ColorMuse",
+      "company": "ColorMuse Beauty",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "1 year"
+    }
+  ],
+
+  "footwear": [
+    {
+      "id": 45,
+      "name": "Block Heel Sandals",
+      "price": 119.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409496/blockheels_ecxgzy.jpg"
+        }
+      ],
+      "description": "Stylish ankle-strap block heels offering both comfort and elegance.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "Catwalk",
+      "company": "Catwalk Worldwide Pvt Ltd",
+      "country": "India",
+      "isExport": false,
+      "specification": {
+        "material": "Synthetic"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 46,
+      "name": "Classic White Sneakers",
+      "price": 149.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409496/whitesneakers_rd2kcw.jpg"
+        }
+      ],
+      "description": "Timeless white sneakers with breathable upper and cushioned footbed.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.8,
+      "brand": "Adidas",
+      "company": "Adidas AG",
+      "country": "Germany",
+      "isExport": true,
+      "specification": {
+        "material": "Textile"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 47,
+      "name": "Wedge Heels",
+      "price": 129.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409497/wedgeheels_ujbioq.webp"
+        }
+      ],
+      "description": "Comfortable wedge heels with open-toe design and soft foot padding.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "Bata",
+      "company": "Bata India Ltd",
+      "country": "India",
+      "isExport": false,
+      "specification": {
+        "material": "PU Leather"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 48,
+      "name": "Ankle Boots",
+      "price": 179.99,
+      "images": [
+        {
+          "name": "side-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409495/ankleboots_uujfvd.webp"
+        }
+      ],
+      "description": "Chic ankle-length boots crafted from faux leather with side zip closure.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.9,
+      "brand": "H&M",
+      "company": "H&M Group",
+      "country": "Sweden",
+      "isExport": true,
+      "specification": {
+        "material": "Faux Leather"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 49,
+      "name": "Ballet Flats",
+      "price": 89.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409497/balletflats_w0zsxx.jpg"
+        }
+      ],
+      "description": "Elegant ballet flats with rounded toe and soft insole for daily wear.",
+      "inStock": false,
+      "availability": "Out of Stock",
+      "rating": 4.4,
+      "brand": "Hush Puppies",
+      "company": "Hush Puppies Inc",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Leather"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 50,
+      "name": "Platform Sandals",
+      "price": 139.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409499/platformsandasl_izytwd.jpg"
+        }
+      ],
+      "description": "Trendy platform sandals with ankle straps and durable rubber soles.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "Charles & Keith",
+      "company": "Charles & Keith Group",
+      "country": "Singapore",
+      "isExport": true,
+      "specification": {
+        "material": "Synthetic"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 51,
+      "name": "Kolhapuri Chappals",
+      "price": 79.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409499/kholapurichappals_mlhdkw.webp"
+        }
+      ],
+      "description": "Authentic handwoven leather Kolhapuris for an ethnic yet comfy look.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.3,
+      "brand": "Metro",
+      "company": "Metro Shoes Pvt Ltd",
+      "country": "India",
+      "isExport": false,
+      "specification": {
+        "material": "Leather"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 52,
+      "name": "Sporty Slip-Ons",
+      "price": 129.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409500/sportyslipons_r2u286.jpg"
+        }
+      ],
+      "description": "Lightweight slip-on sneakers with stretch fabric upper for easy wear.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "Skechers",
+      "company": "Skechers USA Inc",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Mesh"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 53,
+      "name": "Loafers",
+      "price": 109.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409499/loafers_gvg1au.jpg"
+        }
+      ],
+      "description": "Smart casual loafers featuring cushioned insoles and slip-on design for all-day comfort.",
+      "inStock": false,
+      "availability": "Out of Stock",
+      "rating": 4.6,
+      "brand": "Clarks",
+      "company": "Clarks Ltd",
+      "country": "UK",
+      "isExport": true,
+      "specification": {
+        "material": "Leather"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 54,
+      "name": "Stiletto Heels",
+      "price": 169.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409495/stilettoheels_mfh48f.jpg"
+        }
+      ],
+      "description": "Elegant stiletto heels designed with pointed toes and smooth faux leather finish.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.8,
+      "brand": "Steve Madden",
+      "company": "Steve Madden Ltd",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Faux Leather"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 55,
+      "name": "Running Shoes",
+      "price": 189.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409494/runningshoes_msnzsi.avif"
+        }
+      ],
+      "description": "Lightweight running shoes engineered for breathability and superior arch support.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.9,
+      "brand": "Nike",
+      "company": "Nike Inc",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Mesh"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 56,
+      "name": "Slip-On Sliders",
+      "price": 69.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409493/sliponsliders_bitezv.jpg"
+        }
+      ],
+      "description": "Soft cushioned sliders ideal for casual and indoor wear with anti-slip soles.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.3,
+      "brand": "Puma",
+      "company": "Puma SE",
+      "country": "Germany",
+      "isExport": true,
+      "specification": {
+        "material": "Rubber"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 57,
+      "name": "Clogs",
+      "price": 99.99,
+      "images": [
+        {
+          "name": "side-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409494/clogs_ptpfxw.jpg"
+        }
+      ],
+      "description": "Comfortable clogs with ventilation holes and cushioned sole for daily wear.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "Crocs",
+      "company": "Crocs Inc",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "EVA Foam"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 58,
+      "name": "Woolen Ankle Boots",
+      "price": 189.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761409496/woolenankleboots_ymvrte.jpg"
+        }
+      ],
+      "description": "Cozy wool-lined ankle boots designed for warmth and comfort in winter.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "Timberland",
+      "company": "Timberland LLC",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Suede Leather"
+      },
+      "warranty": "1 year"
+    }
+  ],
+  "accessories": [
+    {
+      "id": 59,
+      "name": "Silk Scarf",
+      "price": 49.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410975/silkscarf_bkarzk.webp"
+        }
+      ],
+      "description": "Luxurious silk scarf with vibrant patterns perfect for adding elegance to any outfit.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.8,
+      "brand": "Hermès",
+      "company": "Hermès International",
+      "country": "France",
+      "isExport": true,
+      "specification": {
+        "material": "Silk"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 60,
+      "name": "Sunglasses",
+      "price": 129.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410976/sunglasses_qmrael.jpg"
+        }
+      ],
+      "description": "UV-protected stylish sunglasses with lightweight frame and polarized lenses.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "Ray-Ban",
+      "company": "Ray-Ban Ltd",
+      "country": "Italy",
+      "isExport": true,
+      "specification": {
+        "material": "Acetate"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 61,
+      "name": "Gold Hoop Earrings",
+      "price": 79.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410975/goldearrings_l4hs3m.webp"
+        }
+      ],
+      "description": "Classic gold-plated hoop earrings with secure clasp for everyday wear.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.9,
+      "brand": "Tanishq",
+      "company": "Tanishq Jewellery",
+      "country": "India",
+      "isExport": true,
+      "specification": {
+        "material": "Gold-Plated"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 62,
+      "name": "Charm Bracelet",
+      "price": 59.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410974/charmbracelet_ive6gg.jpg"
+        }
+      ],
+      "description": "Silver charm bracelet with multiple interchangeable charms for personalized style.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "Pandora",
+      "company": "Pandora Jewelry",
+      "country": "Denmark",
+      "isExport": true,
+      "specification": {
+        "material": "Sterling Silver"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 63,
+      "name": "Leather Belt",
+      "price": 39.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410974/leatherbelt_px4qgx.webp"
+        }
+      ],
+      "description": "Durable leather belt with metal buckle, suitable for casual and formal wear.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "Gucci",
+      "company": "Gucci S.p.A.",
+      "country": "Italy",
+      "isExport": true,
+      "specification": {
+        "material": "Leather"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 64,
+      "name": "Wristwatch",
+      "price": 199.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410972/wristwatch_wr706y.webp"
+        }
+      ],
+      "description": "Water-resistant analog wristwatch with stainless steel strap and quartz movement.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.8,
+      "brand": "Fossil",
+      "company": "Fossil Group",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Stainless Steel"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 65,
+      "name": "Pearl Necklace",
+      "price": 149.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410971/pearlnecklace_c3mshn.webp"
+        }
+      ],
+      "description": "Classic pearl necklace featuring lustrous cultured pearls for formal occasions.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.9,
+      "brand": "Swarovski",
+      "company": "Swarovski AG",
+      "country": "Austria",
+      "isExport": true,
+      "specification": {
+        "material": "Cultured Pearls"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 66,
+      "name": "Stud Earrings",
+      "price": 39.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410971/stud_nwfsth.webp"
+        }
+      ],
+      "description": "Minimalist silver stud earrings suitable for daily wear and office attire.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "Tanishq",
+      "company": "Tanishq Jewellery",
+      "country": "India",
+      "isExport": true,
+      "specification": {
+        "material": "Sterling Silver"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 67,
+      "name": "Hair Clips Set",
+      "price": 14.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410971/hairclipset_wkv4mq.jpg"
+        }
+      ],
+      "description": "Set of decorative hair clips in various designs for versatile hairstyling.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.4,
+      "brand": "Claire's",
+      "company": "Claire's Stores",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Metal & Plastic"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 68,
+      "name": "Keychain",
+      "price": 9.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410970/keychain_pjtxs4.jpg"
+        }
+      ],
+      "description": "Stylish metal keychain with decorative charm, ideal for keys or bags.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.3,
+      "brand": "Coach",
+      "company": "Coach Inc",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Metal"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 69,
+      "name": "Bangle Set",
+      "price": 59.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410973/bangles_hlbddh.jpg"
+        }
+      ],
+      "description": "Set of gold-tone bangles with intricate design, perfect for festive occasions.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "Tanishq",
+      "company": "Tanishq Jewellery",
+      "country": "India",
+      "isExport": true,
+      "specification": {
+        "material": "Gold-Plated"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 70,
+      "name": "Anklet",
+      "price": 24.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410975/anklet_lltmbj.webp"
+        }
+      ],
+      "description": "Delicate silver anklet with tiny charms for casual and ethnic wear.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "Pandora",
+      "company": "Pandora Jewelry",
+      "country": "Denmark",
+      "isExport": true,
+      "specification": {
+        "material": "Sterling Silver"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 71,
+      "name": "Brooch",
+      "price": 19.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410971/brooch_yvn8m5.jpg"
+        }
+      ],
+      "description": "Elegant decorative brooch to enhance blouses, jackets, or scarves.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.4,
+      "brand": "Swarovski",
+      "company": "Swarovski AG",
+      "country": "Austria",
+      "isExport": true,
+      "specification": {
+        "material": "Metal & Crystals"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 72,
+      "name": "Hair Band",
+      "price": 12.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761410970/hairband_ffbtcj.jpg"
+        }
+      ],
+      "description": "Stretchable fabric hair band for comfortable daily wear.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.3,
+      "brand": "Claire's",
+      "company": "Claire's Stores",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Fabric"
+      },
+      "warranty": "6 months"
+    }
+  ],
+  "bags": [
+    {
+      "id": 73,
+      "name": "Tote Bag",
+      "price": 49.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412153/totebag_yke4sq.webp"
+        }
+      ],
+      "description": "Spacious tote bag made from durable material for everyday use.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "UrbanCarry",
+      "company": "UrbanCarry Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Canvas"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 74,
+      "name": "Backpack",
+      "price": 59.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412148/backpack_xpachy.avif"
+        }
+      ],
+      "description": "Classic backpack with multiple compartments for travel or school.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "TravelMate",
+      "company": "TravelMate Co.",
+      "country": "Germany",
+      "isExport": true,
+      "specification": {
+        "material": "Polyester"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 75,
+      "name": "Messenger Bag",
+      "price": 69.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412146/messengerbag_cdzxqz.jpg"
+        }
+      ],
+      "description": "Stylish messenger bag perfect for office and casual outings.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "UrbanCarry",
+      "company": "UrbanCarry Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Leather"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 76,
+      "name": "Clutch",
+      "price": 39.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412145/clutch_gxrrys.webp"
+        }
+      ],
+      "description": "Elegant clutch for evening events and special occasions.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "StyleEdge",
+      "company": "StyleEdge Co.",
+      "country": "UK",
+      "isExport": true,
+      "specification": {
+        "material": "Leather"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 77,
+      "name": "Crossbody Bag",
+      "price": 54.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412143/crossbodybag_mit1eq.webp"
+        }
+      ],
+      "description": "Compact crossbody bag with adjustable strap for hands-free convenience.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "UrbanCarry",
+      "company": "UrbanCarry Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "PU Leather"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 78,
+      "name": "Duffel Bag",
+      "price": 79.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412141/duffelbag_fh3rnt.webp"
+        }
+      ],
+      "description": "Durable duffel bag for gym or weekend trips.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "TravelMate",
+      "company": "TravelMate Co.",
+      "country": "Germany",
+      "isExport": true,
+      "specification": {
+        "material": "Nylon"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 79,
+      "name": "Hobo Bag",
+      "price": 64.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412136/hobobag_mtlst8.webp"
+        }
+      ],
+      "description": "Soft, crescent-shaped hobo bag for stylish everyday use.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "StyleEdge",
+      "company": "StyleEdge Co.",
+      "country": "UK",
+      "isExport": true,
+      "specification": {
+        "material": "Leather"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 80,
+      "name": "Satchel",
+      "price": 59.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412135/satchel_ntgmjr.jpg"
+        }
+      ],
+      "description": "Structured satchel bag for formal or professional settings.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "UrbanCarry",
+      "company": "UrbanCarry Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "PU Leather"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 81,
+      "name": "Laptop Bag",
+      "price": 69.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412134/laptopbag_cls7ph.webp"
+        }
+      ],
+      "description": "Padded laptop bag with compartments for office essentials.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "TechCarry",
+      "company": "TechCarry Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Polyester"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 82,
+      "name": "Shoulder Bag",
+      "price": 54.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412498/shoulderbag_chvvw6.webp"
+        }
+      ],
+      "description": "Elegant shoulder bag with adjustable strap for everyday use.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "StyleEdge",
+      "company": "StyleEdge Co.",
+      "country": "UK",
+      "isExport": true,
+      "specification": {
+        "material": "Leather"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 83,
+      "name": "Bucket Bag",
+      "price": 59.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412126/bucketbag_a3jgxz.webp"
+        }
+      ],
+      "description": "Stylish bucket bag with drawstring closure for trendy looks.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "UrbanCarry",
+      "company": "UrbanCarry Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "PU Leather"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 84,
+      "name": "Briefcase",
+      "price": 79.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412124/briefcase_vqna9b.jpg"
+        }
+      ],
+      "description": "Professional briefcase for business and formal use.",
+      "inStock": false,
+      "availability": "Out of Stock",
+      "rating": 4.7,
+      "brand": "TechCarry",
+      "company": "TechCarry Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Leather"
+      },
+      "warranty": "1 year"
+    },
+    {
+      "id": 85,
+      "name": "Fanny Pack",
+      "price": 29.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412123/fannypack_yvslnn.webp"
+        }
+      ],
+      "description": "Compact fanny pack for hands-free convenience during travel or outdoor activities.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "UrbanCarry",
+      "company": "UrbanCarry Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "material": "Nylon"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 86,
+      "name": "Mini Bag",
+      "price": 34.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412123/minibag_ceq3gk.jpg"
+        }
+      ],
+      "description": "Trendy mini bag perfect for carrying essentials in style.",
+      "inStock": false,
+      "availability": "Out of Stock",
+      "rating": 4.4,
+      "brand": "StyleEdge",
+      "company": "StyleEdge Co.",
+      "country": "UK",
+      "isExport": true,
+      "specification": {
+        "material": "PU Leather"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 87,
+      "name": "Travel Bag",
+      "price": 89.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761412124/travelbag_haxptj.jpg"
+        }
+      ],
+      "description": "Large travel bag suitable for weekend getaways or short trips.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "TravelMate",
+      "company": "TravelMate Co.",
+      "country": "Germany",
+      "isExport": true,
+      "specification": {
+        "material": "Nylon"
+      },
+      "warranty": "1 year"
+    }
+  ],
+  "personalCare": [
+    {
+      "id": 89,
+      "name": "Hydrating Face Cream",
+      "price": 19.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413611/hydrafacecream_mt0cqe.jpg"
+        }
+      ],
+      "description": "Moisturizing face cream for all skin types to keep skin soft and hydrated.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "GlowCare",
+      "company": "GlowCare Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 90,
+      "name": "Dry Hair Shampoo",
+      "price": 12.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413608/shampoodry_f0hxus.webp"
+        }
+      ],
+      "description": "Gentle shampoo enriched with natural oils to nourish and repair dry hair.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "HairGlow",
+      "company": "HairGlow Co.",
+      "country": "UK",
+      "isExport": true,
+      "specification": {
+        "hairType": "Dry"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 91,
+      "name": "Body Wash",
+      "price": 14.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413606/bodywash_xdz2et.jpg"
+        }
+      ],
+      "description": "Refreshing body wash that gently cleanses and hydrates skin.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "FreshSkin",
+      "company": "FreshSkin Co.",
+      "country": "Germany",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 92,
+      "name": "Oily Skin Facewash",
+      "price": 11.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413602/facewashoil_bztlgl.webp"
+        }
+      ],
+      "description": "Foaming face wash that controls oil and prevents breakouts.",
+      "inStock": false,
+      "availability": "Out of Stock",
+      "rating": 4.5,
+      "brand": "GlowCare",
+      "company": "GlowCare Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "skinType": "Oily Skin"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 93,
+      "name": "Hair Conditioner",
+      "price": 13.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413601/conditioner_igmdub.jpg"
+        }
+      ],
+      "description": "Repairing conditioner to restore shine and softness to damaged hair.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "HairGlow",
+      "company": "HairGlow Co.",
+      "country": "UK",
+      "isExport": true,
+      "specification": {
+        "hairType": "Damaged",
+        "volume": "200ml",
+        "ingredients": "Keratin, Coconut Oil",
+        "scent": "Mild"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 94,
+      "name": "Body Lotion",
+      "price": 16.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413596/bodylotion_nh1hva.webp"
+        }
+      ],
+      "description": "Lightweight body lotion for daily hydration and soft skin.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "FreshSkin",
+      "company": "FreshSkin Co.",
+      "country": "Germany",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 95,
+      "name": "Sunscreen SPF50",
+      "price": 18.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413595/sunscreen_ca3zih.webp"
+        }
+      ],
+      "description": "High protection sunscreen suitable for all skin types.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.8,
+      "brand": "SunShield",
+      "company": "SunShield Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 96,
+      "name": "Exfoliating Scrub",
+      "price": 15.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413593/scrub_tk0c3s.jpg"
+        }
+      ],
+      "description": "Gentle exfoliating scrub for smooth and glowing skin.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "GlowCare",
+      "company": "GlowCare Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 97,
+      "name": "Hair Serum",
+      "price": 17.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413588/hairserum_c1c7n3.webp"
+        }
+      ],
+      "description": "Lightweight hair serum for smooth, frizz-free hair.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "HairGlow",
+      "company": "HairGlow Co.",
+      "country": "UK",
+      "isExport": true,
+      "specification": {
+        "hairType": "All",
+        "volume": "50ml",
+        "ingredients": "Argan Oil, Vitamin E",
+        "scent": "Mild"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 98,
+      "name": "Lip Balm",
+      "price": 5.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413586/lipbalm_flp00z.webp"
+        }
+      ],
+      "description": "Moisturizing lip balm for soft and smooth lips.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.8,
+      "brand": "FreshSkin",
+      "company": "FreshSkin Co.",
+      "country": "Germany",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 99,
+      "name": "Body Oil",
+      "price": 21.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413583/bodyoil_jangou.webp"
+        }
+      ],
+      "description": "Nourishing body oil for soft, hydrated, and glowing skin.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.6,
+      "brand": "GlowCare",
+      "company": "GlowCare Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 100,
+      "name": "Hair Mask",
+      "price": 22.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413582/hairmask_e0xxov.jpg"
+        }
+      ],
+      "description": "Deep conditioning hair mask to repair and strengthen hair.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.7,
+      "brand": "HairGlow",
+      "company": "HairGlow Co.",
+      "country": "UK",
+      "isExport": true,
+      "specification": {
+        "hairType": "Damaged",
+        "volume": "150ml",
+        "ingredients": "Keratin, Coconut Oil",
+        "scent": "Mild"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 101,
+      "name": "Hand Cream",
+      "price": 9.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413576/handcream_u2cw1q.jpg"
+        }
+      ],
+      "description": "Hydrating hand cream to soften dry hands.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "FreshSkin",
+      "company": "FreshSkin Co.",
+      "country": "Germany",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 102,
+      "name": "Hair Styling Gel",
+      "price": 8.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413574/stylinggel_x4cdlq.webp"
+        }
+      ],
+      "description": "Strong hold hair gel for sleek, styled looks.",
+      "inStock": false,
+      "availability": "Out of Stock",
+      "rating": 4.6,
+      "brand": "StyleEdge",
+      "company": "StyleEdge Co.",
+      "country": "UK",
+      "isExport": true,
+      "specification": {
+        "hairType": "All",
+        "volume": "100ml",
+        "ingredients": "Aloe Vera, Vitamin E",
+        "scent": "Mild"
+      },
+      "warranty": "6 months"
+    },
+    {
+      "id": 103,
+      "name": "Foot Cream",
+      "price": 11.99,
+      "images": [
+        {
+          "name": "front-view",
+          "url": "https://res.cloudinary.com/ddfhe3fan/image/upload/v1761413574/footcream_j1vnik.webp"
+        }
+      ],
+      "description": "Moisturizing foot cream for soft and smooth feet.",
+      "inStock": true,
+      "availability": "In Stock",
+      "rating": 4.5,
+      "brand": "GlowCare",
+      "company": "GlowCare Co.",
+      "country": "USA",
+      "isExport": true,
+      "specification": {
+        "skinType": "All Skin Types"
+      },
+      "warranty": "6 months"
+    }
+  ]
+}
