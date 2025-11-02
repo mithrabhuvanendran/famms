@@ -210,6 +210,13 @@ cartEl.addEventListener("click", () => {
   cart.style.display = cart.style.display === "none" ? "block" : "none";
 });
 
+const itemCount = headerEl.querySelector(".cart-icon .item-count");
+
+itemCount.addEventListener("click", () => {
+  cart.style.display = cart.style.display === "none" ? "block" : "none";
+
+})
+
 const cartCloseBtn = cart.querySelector("table thead tr th button");
 
 cartCloseBtn.addEventListener("click", () => {
