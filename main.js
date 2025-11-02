@@ -27,6 +27,8 @@ menuList.forEach((item) => {
   });
 });
 
+// const itemCount = headerEl.querySelector(".cart-icon .item-count");
+
 const clickBtn = headerEl.querySelector("#click");
 
 clickBtn.addEventListener("click", () => {
@@ -97,6 +99,12 @@ productList.forEach((list) => {
 
 let cartItem = JSON.parse(localStorage.getItem("Cart")) || [];
 let detailsItem = JSON.parse(localStorage.getItem("Details")) || {};
+
+
+function itemCartCount() {
+const itemCount = headerEl.querySelector(".cart-icon .item-count");
+  itemCount.textContent = `${cartItem.length}`;
+}
 
 function displayCard(products) {
   const productPage = main.querySelector("#products article");
@@ -238,7 +246,9 @@ ${cartItem
  `
   )
   .join("")}
-`;
+  `;
+
+  itemCartCount()
   itemTotalPrice();
 }
 
@@ -370,15 +380,14 @@ function isOpen(isOpen) {
 
 const checkoutItem = checkout.querySelector(".checkout-item");
 
-const totalPrice = itemTotalPrice();
-
 function checkoutCart(cartItem) {
+  const totalCheckoutPrice = itemTotalPrice();
   checkoutItem.innerHTML = `
   <table>
     <thead>
-      <tr colspan="2">
+      <tr >
         <th>Order Summary</th>
-        <th>Total Price: $${totalPrice.toFixed(2)}</th>
+        <th colspan="2">Total Price: $${totalCheckoutPrice.toFixed(2)}</th>
       </tr>
     </thead>
     <tbody> 
@@ -394,7 +403,7 @@ function checkoutCart(cartItem) {
         <td>
           ${item.name} <br>
           <span>Qty:</span> ${item.qty || 1}
-          </td>
+        </td>
         <td>$${((item.qty || 1) * item.price).toFixed(2)}</td>
       </tr>
       `
